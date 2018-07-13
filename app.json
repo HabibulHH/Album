@@ -1,0 +1,17 @@
+
+{
+  "expo": {
+  
+   "name": "albums",
+   "icon": "./Music-icon.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "sdkVersion": "28.0.0",
+   "ios": {
+     "bundleIdentifier": "com.xzeros.albums"
+   },
+   "android": {
+     "package": "com.xzeros.albumd"
+   }
+  }
+}
